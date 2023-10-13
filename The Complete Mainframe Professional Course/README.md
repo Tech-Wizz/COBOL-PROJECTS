@@ -9,8 +9,15 @@ KNOW THE SQUARE AND CUBE OF A NUMBER
 - Use prodedures in the code
 
 # Assignment 3: TAX CALCULATION program
+- Create a COBOL program that calculate tax if the income is more than $100,000 per year.
+- Income tax is 10% of the total income of the year if the income exceeds $100,000.
 
+                10% if income above $100,000
 
+- Run the code in a separate window
+- Use if else in the code and the output should be numeric edited
+- Use procedures in the code
+  
 # Assignment 4: An Interactive Simple Interest Program using Loops
 
 
