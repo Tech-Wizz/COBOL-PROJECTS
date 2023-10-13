@@ -2,7 +2,11 @@
 Create a program that ask for the user's name then returns "HELLO " USERNAME
 
 # Assignment 2: Find the SQUARE and CUBE of a number
-
+KNOW THE SQUARE AND CUBE OF A NUMBER
+- Create a COBOL program that accepts a number.
+- After that is shows its square and cube in the output.
+- Run the code in a separate window
+- Use prodedures in the code
 
 # Assignment 3: TAX CALCULATION program
 
