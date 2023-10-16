@@ -31,3 +31,5 @@ KNOW THE SQUARE AND CUBE OF A NUMBER
 
 
 # Assignment 5: Create a Login Map for the CICS region
+
+- Create a Login map with username and password for the CICS region.
