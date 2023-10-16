@@ -19,6 +19,15 @@ KNOW THE SQUARE AND CUBE OF A NUMBER
 - Use procedures in the code
   
 # Assignment 4: An Interactive Simple Interest Program using Loops
+- Create a COBOL program that calculates SIMPLE INTREST.
+- The program should keep running until the user enters an input.
+- Run the code in a separate window.
+- Use perform until in the code and the output should be numeric edited.
+- Use procedures in the code.
+
+- Simple Interest = (Money * Rate of interest * Time) / 100
+
+- Keep the interest rate as fixed 8%.
 
 
 # Assignment 5: Create a Login Map for the CICS region
