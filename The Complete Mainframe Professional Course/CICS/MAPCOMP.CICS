@@ -1,0 +1,11 @@
+//MAPCOMP JOB    CLASS=A,MSGCLASS=A,NOTIFY=&SYSUID,MSGLEVEL=(1,1)       00010000
+//PROCLIB JCLLIB ORDER=DFH320.CICS.SDFHPROC                             00020000
+//STEP1   EXEC   PROC=DFHMAPS,                                          00020000
+//       MAPNAME='HELOMAP',
+//       INDEX='DFH320.CICS',
+//       MAPLIB='DFH320.CICS.SDFHLOAD',
+//       DSCTLIB='DFH320.CICS.SDFHMAC'
+//COPY.SYSUT1 DD DISP=SHR,DSN=ABHI.COURSE.MAPS(HELOMAP)                 00020000
+//SYSPRINT    DD SYSOUT=*                                               00050000
+/*                                                                      00060000
+
